@@ -1,0 +1,35 @@
+body{
+  background-color:#f9f871;
+}
+
+h1{
+  color: #00917c;
+  text-align:center;
+  font-size:7rem;
+  padding-top:0%;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.text1{
+  color: #00917c;
+  font-size:2rem;
+  padding-left:35%;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.text2{
+  color: #00917c;
+  font-size:2rem;
+  padding-left:27%;
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+.img1{
+  margin-left:30%;
+  width:230px;
+}
+
+.img2{
+  margin-left:10%;
+  width:230px;
+}
